@@ -1,0 +1,33 @@
+[
+  {
+    "questionNo": 1,
+    "question": " Arina is preparing thank-you cards for the event. Add the number of cards and find the total.",
+    "options":["5","2","2","3","0","3","","",""],
+    "answers": ["5","2","2","3","0","3","8","2","5"]
+  },
+  {
+    "questionNo": 2,
+    "question": "She is organizing the event schedule. Add the number of minutes planned for the kids' games and volunteer activities.",
+    "options":["4","1","0","1","1","4","","",""],
+    "answers": ["4","1","0","1","1","4","5","2","4"]
+    
+  },
+  {
+    "questionNo": 3,
+    "question": "Arina is making thank-you gifts for the volunteers. Add the number of gifts and find the total.",
+    "options":["2","3","5","1","3","4","","",""],
+    "answers": ["2","3","5","1","3","4","3","6","9"]
+  },
+  {
+    "questionNo": 4,
+    "question": "Arina is organizing the seating arrangement. Arrange and add the number of chairs in the VIP section and general seating.(625 + 330 = ? )",
+    "options":["6","2","5","","","","","",""],
+    "answers": ["6","2","5","3","3","0","9","5","5"]
+  },
+  {
+    "questionNo": 5,
+    "question": "Arina is preparing certificates for the volunteers. Arrange and add the number of printed certificates to find the total.(732 + 141 = ?)",
+    "options":["","","","1","4","1","","",""],
+    "answers": ["7","3","2","1","4","1","8","7","3"]
+  }
+]

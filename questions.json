@@ -1,0 +1,39 @@
+[
+  {
+    "questionNo": 1,
+    "question": "Arina plans to set up chairs for the charity event. Add the given number of chairs and find the total by filling the blank boxes.",
+    "options":["4","2","4","5","",""],
+    "answers": ["4","2","4","5","8","7"]
+  },
+  {
+    "questionNo": 2,
+    "question": "Arina is organizing gift bags for the event. Add the number of gift bags and find the total.",
+    "options":["2","3","4","1","",""],
+    "answers": ["2","3","4","1","6","4"]
+    
+  },
+  {
+    "questionNo": 3,
+    "question": "Arina is preparing treats for the event. Add the number of treats and find the total.",
+    "options":["3","3","3","6","",""],
+    "answers": ["3","3","3","6","6","9"]
+  },
+  {
+    "questionNo": 4,
+    "question": "Arina is setting up event posters around the neighborhood. Add the number of posters and find the total.",
+    "options":["7","0","1","6","",""],
+    "answers": ["7","0","1","6","8","6"]
+  },
+  {
+    "questionNo": 5,
+    "question": "Arina is making a list of guests for the event. Arrange and add the number of invitations she has to send out.( 64 + 15 = ? )",
+    "options":["6","4","","","",""],
+    "answers": ["6","4","1","5","7","9"]
+  },
+  {
+    "questionNo": 6,
+    "question": "Arina is setting up tables for the charity event. Add the number of tables for the party and the food stations.( 71 + 22 = ? )",
+    "options":["","","2","2","",""],
+    "answers": ["7","1","2","2","9","3"]
+  }
+]
